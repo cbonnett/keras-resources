@@ -26,7 +26,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Keras video tutorials from Dan Van Boxel](https://www.youtube.com/playlist?list=PLFxrZqbLojdKuK7Lm6uamegEFGW2wki6P)
 - [Keras Deep Learning Tutorial for Kaggle 2nd Annual Data Science Bowl](https://github.com/jocicmarko/kaggle-dsb2-keras/)
 - [Collection of tutorials setting up DNNs with Keras](http://ml4a.github.io/guides/)
-
+- [Mixture Density Networks with Keras](http://cbonnett.github.io/MDN_EDWARD_KERAS_TF.html)
 ## Code examples
 
 ### Working with text
